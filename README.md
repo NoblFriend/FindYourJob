@@ -1,7 +1,7 @@
 # findyourjob
 Учебный проект
 
-## используются
+## Используются:
 - HTML
 - CSS
 - Bootstrap v5
