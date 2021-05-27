@@ -1,4 +1,4 @@
-# findyourjob
+# FindYourJob
 Учебный проект
 
 ## Используются:
